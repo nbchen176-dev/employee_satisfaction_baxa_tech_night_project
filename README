@@ -1,1 +1,2 @@
-temp
+Uses Python libraries pandas, matplotlib, numpy to analyze a employee satisfaction dataset from Kaggle. Implemented skikitlearn library to run K-nearest-neighbors 
+regression to predict mean employee satisfaction based on mentioned attributes. Calculated MSE & R-squared and created residual plots for error analysis.
